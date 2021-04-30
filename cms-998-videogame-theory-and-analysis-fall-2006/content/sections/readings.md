@@ -1,0 +1,64 @@
+---
+course_id: cms-998-videogame-theory-and-analysis-fall-2006
+layout: course_section
+menu:
+  leftnav:
+    identifier: d25dd24f3b5b756e4c30d4fe45312f03
+    name: Readings
+    weight: 20
+title: Readings
+type: course
+uid: d25dd24f3b5b756e4c30d4fe45312f03
+
+---
+
+This page presents the required readings, plus links to some [supplemental material](#Supplemental_Material).
+
+Textbooks
+---------
+
+### Required
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195362) \[S&Z\] - Salen, K., and E. Zimmerman, eds. [_The Game Design Reader_](https://mitpress.mit.edu/9780262195362). Cambridge, MA: MIT Press, 2005. ISBN: 9780262195362.
+
+Gee, J. P. _Why Videogames Are Good For Your Soul_. New York, NY: Common Ground, 2005. ISBN: 9781863355742.
+
+Readings in these texts will be supplemented by other reading assignments for each class session. In addition, you should keep up with readings associated with your game: magazine/online reviews, bulletin board discussions and forums, fan-produced media and texts, online chats, etc.
+
+### Recommended
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262182409) Raessens, J., and J. Goldstein, eds. [_The Handbook of Computer Game Studies_](https://mitpress.mit.edu/9780262182409). Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409.
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232326) Wardrip - Fruin, N., and P. Harrigan. [_First Person: New Media as Story, Performance, and Game_](https://mitpress.mit.edu/9780262232326). Cambridge, MA: MIT Press, 2004. ISBN: 9780262232326.
+
+Reading by Sessions
+-------------------
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| L1 | Introduction to the Course, Brainstorm Game Ideas, Introduce Key Concepts | &nbsp; |
+| Lab1 |  {{< br >}}{{< br >}} Looking at a Few Sample Games, Start to Talk About What Games to Play for Class {{< br >}}{{< br >}}  | &nbsp; |
+| L2-L3 | Histories and Definitions |  {{< br >}}{{< br >}} Juul, Jesper. "[The Game, the Player, the World](http://www.jesperjuul.net/text/gameplayerworld/)." {{< br >}}{{< br >}} Wolf, Mark J. P. "[Genre and the Video Game](http://www.robinlionheart.com/gamedev/genres.xhtml)." {{< br >}}{{< br >}} Caillois, R. "The Definition of Play; The Classification of Games." In _S&Z_. 1962. {{< br >}}{{< br >}} Malliet, and deMeyer. "The History of the Video Game." {{< br >}}{{< br >}} [The Dot Eaters: Videogame History 101](http://www.emuunlim.com/doteaters/). {{< br >}}{{< br >}} Costikyan, Greg. "I Have No Words." In _S&Z_. 1994. {{< br >}}{{< br >}}  |
+| Lab2 | Lab | &nbsp; |
+| L4-L5 | Narratology and Ludology |  {{< br >}}{{< br >}} Frasca, Gonzalo. "Simulation versus Narrative: Introduction to Ludology." In _Video/Game/Theory_. Edited by Mark J. P. Wolf and Bernard Perron. New York, NY: Routledge, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ludology.org/articles/VGT_final.pdf)) {{< br >}}{{< br >}} Juul, Jesper. "[Games Telling Stories](http://www.gamestudies.org/0101/juul-gts/)?" {{< br >}}{{< br >}} Mateas, M., and A. Stern. "Interaction and Narrative." In _S&Z_. 2000 / 2005. {{< br >}}{{< br >}} Jenkins, Henry. "Game Design as Narrative Architecture." In _S&Z_. 2004. {{< br >}}{{< br >}} [Jenkins vs. Aarseth video](http://web.mit.edu/cms/People/henry3/games&narrative.html) {{< br >}}{{< br >}} {{< h 3 >}}Notes{{< /h >}} {{< br >}}{{< br >}} The topics range from the relationship between story and game to the relationship between developers and academics, with discussion of the institutional situation of game studies programs as well. Henry has some great comments about spatial story and the relationship of games to other narrative-evoking environments; Espen's discussion of the need for a diversity of approaches - not just "narratology" and "ludology" - is also quite good to hear. Espen even explains how game studies should take literary studies as a model! You'll have to watch the video yourself to find out what the context is for this suggestion - it's about 49 minutes in. {{< br >}}{{< br >}}  |
+| L6-L7 | MMOGs |  {{< br >}}{{< br >}} Taylor, T. L. "Gaming Lifeworlds: Social Play in Persistent Environments." {{< br >}}{{< br >}} Yee, Nick. "The Psychology of MMORPGs: Emotional Investment, Motivations, Relationship Formation, and Problematic Usage." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nickyee.com/pubs/Yee%20-%20MMORPG%20Psychology%20(2006).pdf)) {{< br >}}{{< br >}} Ducheneaut, N., N. Yee, E. Nickell, and R. J. Moore. "Building an MMO With Mass Appeal: A Look at Gameplay in World of Warcraft." _Games and Culture_ 1, no. 4 (October 2006): 281-317. {{< br >}}{{< br >}} Steinkuehler, C. A. "Massively Multiplayer Online Videogaming as Participation in a Discourse." _Mind, Culture, and Activity_ 13, no. 1 (2006): 38-52. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.5067&rep=rep1&type=pdf)) {{< br >}}{{< br >}} Castronova, Edward. "Virtual Worlds: A First-Hand Account of Market and Society on the Cyberian Frontier." In _S&Z_. 2001. {{< br >}}{{< br >}}  |
+| Lab3 | Lab | &nbsp; |
+| L8 | Space and Place |  {{< br >}}{{< br >}} Wright, Talmadge. "Themed Spaces." {{< br >}}{{< br >}} Steinkuehler, C., and D. Williams. "Where Everybody Knows Your (Screen) Name: Online Games as "Third Places"." [_Journal of Computer-Mediated Communication_](http://jcmc.indiana.edu/vol11/issue4/steinkuehler.html) 11, no. 4 (2006): article 1. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262182409) Justin Hall. "The Future of Games: Mobile Gaming." In [_The Handbook of Computer Game Studies_](https://mitpress.mit.edu/9780262182409). Edited by J. Raessens and J. Goldstein. Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409. {{< br >}}{{< br >}}  |
+| Lab4 | Lab | &nbsp; |
+| L9-L10 | Player Perspectives |  {{< br >}}{{< br >}} Castronova, Edward. "The User." {{< br >}}{{< br >}} Taylor, T. L. "Whose Game is this Anyway?" {{< br >}}{{< br >}} Bartle, Richard. "[Hearts, Clubs, Diamonds, Spades: Players Who Suit MUDs](http://www.mud.co.uk/richard/hcds.htm)." {{< br >}}{{< br >}} Koster, Raph. "Declaring the Rights of Players." In _S&Z_. 2004. {{< br >}}{{< br >}} Taylor, T. L., and Beth Kolko. "Boundary Spaces: Majestic and the Uncertain Status of Knowledge, Community, and Self in a Digital Age." _Information, Communication and Society_ 6, no. 4 (2003): 497-522. {{< br >}}{{< br >}}  |
+| Lab5 | Lab | &nbsp; |
+| L11-L12 | Designer Perspectives |  {{< br >}}{{< br >}} Birdwell, Ken. "The Cabal: Valve's Design Process for Creating Half-Life." In _S&Z_. 1999. {{< br >}}{{< br >}} Church, Doug. "Formal Abstract Design Tools." In _S&Z_. 1999. {{< br >}}{{< br >}} LeBlanc, Marc. "Tools for Creating Dramatic Game Dynamics." In _S&Z_. 2005. {{< br >}}{{< br >}} Crawford, Chris. "Eastern Front (1941)." In _S&Z_. 2003. {{< br >}}{{< br >}} Zimmerman, Eric. "[Play as Research: The Interative Design Process](https://famst109mg.wordpress.com/2017/01/17/play-as-research-the-iterative-design-process-eric-zimmerman/)." {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262182409) Katie, Salen, and Eric Zimmerman. "Game Design and Meaningful Play." In [_The Handbook of Computer Game Studies_](https://mitpress.mit.edu/9780262182409). Edited by J. Raessens and J. Goldstein. Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409. {{< br >}}{{< br >}}  |
+| Lab6 | Lab | &nbsp; |
+| L13-L14 | Games and Learning |  {{< br >}}{{< br >}} Squire, Kurt. "Game-Based Learning: Present and Future State of the Field." _Report to the Masie Consortium_. (January 31, 2005). {{< br >}}{{< br >}} ———. "Video Games in Education." _International Journal of Intelligent Simulations and Gaming_ 2, no. 1 (2003). ([DOC](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=96FB1FBA05F277471F1B256D931CC9A1?doi=10.1.1.100.8500&rep=rep1&type=pdf)) {{< br >}}{{< br >}} Gee, Jim. "Semiotic Domains: Is Playing Video Games a "Waste of Time?"." In _S&Z_. 2003. {{< br >}}{{< br >}} Steinkuehler, C. A. "Cognition and Literacy in Massively Multiplayer Online Games." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.learntechlib.org/p/125474/)) {{< br >}}{{< br >}} [Innovate, Aug/Sep 2005 Special Issue](https://nsuworks.nova.edu/innovate/vol1/iss6/) {{< br >}}{{< br >}} [_The Escapist_, no. 9](http://www.escapistmagazine.com/issue/59) {{< br >}}{{< br >}}  |
+| Lab7 | Lab | &nbsp; |
+| L15-L16 | Gender |  {{< br >}}{{< br >}} Taylor, T. L. "Where the Women Are." {{< br >}}{{< br >}} Kennedy, Helen. "[On the Limits of Textual Analysis](http://www.gamestudies.org/0202/kennedy/)." (An analysis of Lara Croft.) {{< br >}}{{< br >}} Jenkins, Henry. ""Complete Freedom of Movement": Video Games as Gendered Play Spaces." In _S&Z_. 1998. {{< br >}}{{< br >}} Hayes, Elisabeth. "Women and Video Gaming: Gendered Identities at Play." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.academiccolab.org/resources/documents/gender_and_morrowind.pdf)) {{< br >}}{{< br >}} Consalvo, Mia. "[It's a Queer World After All: Studying The Sims and Sexuality](http://www.academia.edu/654441/Its_a_queer_world_after_all_Studying_The_Sims_and_sexuality)." {{< br >}}{{< br >}} Consalvo, Mia, et al. "Women and Games: Technologies of the Gendered Self." _New Media and Society._ (forthcoming publication) {{< br >}}{{< br >}}  |
+| Lab8 | Lab | &nbsp; |
+| L17-L18 | Race and Representation |  {{< br >}}{{< br >}} Always\_Black. "Bow, Nigger." In _S&Z_. 2004. {{< br >}}{{< br >}} Gee, Jim. "Cultural Models: Do You Want to be the Blue Sonic or the Dark Sonic?" In _S&Z_. 2003. {{< br >}}{{< br >}} Adams, Ernest. "[Not Just Rappers and Athletes](http://www.gamasutra.com/features/20030827/adams_01.shtml)." {{< br >}}{{< br >}} Leonard, D. J. "Not a Hater, Just Keepin' It Real: The Importance of Race- and Gender-Based Game Studies." _Games and Culture_ 1, no. 1 (January 2006): 83-88. {{< br >}}{{< br >}} Au, Wagner James. "[The Freeform Identity Bebop of Eboni Khan](http://secondlife.blogs.com/nwn/2005/03/eboni_khan.html)." (Wagner James Au's discussion of blackness in Second Life.) {{< br >}}{{< br >}} Everett, and Watkins. "Now Representing: Games and the Learning Space of Race." {{< br >}}{{< br >}}  |
+| Lab9 | Lab | &nbsp; |
+| L19 | Game Cultures and Identities |  {{< br >}}{{< br >}} Raessens, Joost. "Computer Games as Participatory Media Culture." {{< br >}}{{< br >}} McGonigal, Jane. "'This Is Not a Game': Immersive Aesthetics and Collective Play." Presented at MelbourneDAC (Digital Arts and Culture) 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://janemcgonigal.files.wordpress.com/2010/12/mcgonigal-jane-this-is-not-a-game.pdf)) {{< br >}}{{< br >}} Turkle, Sherry. "Computer Games as Evocative Objects." (Materials) {{< br >}}{{< br >}}  |
+| Lab10 | Lab | &nbsp; |
+| L20-L21 | Videogame Criticism |  {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262101103) Jesper, Juul. [_Half-Real: Video Games between Real Rules and Fictional Worlds_](https://mitpress.mit.edu/9780262101103). Cambridge, MA: MIT Press, 2005. ISBN: 9780262101103. {{< br >}}{{< br >}} Rouse, Richard. "Game Analysis: Centipede." In _S&Z_. 2001. {{< br >}}{{< br >}} Squire, Kurt. "Educating the Fighter: Buttonmashing, Seeing, Being." _On the Horizon_ 13, no. 2 (2005): 75-88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.academiccolab.org/resources/documents/educating-the-fighterv3.pdf)) {{< br >}}{{< br >}} Gingold, Chaim. "What WarioWare Can Teach Us About Game Design." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.academiccolab.org/resources/documents/educating-the-fighterv3.pdf)) {{< br >}}{{< br >}} Bogost, Ian. "Comparative Video Game Criticism." _Games and Culture_ 1, no. 1 (January 2006): 41-46. {{< br >}}{{< br >}} Krzywinska, Tanya. "The Pleasures and Dangers of the Game: Up Close and Personal." _Games and Culture_ 1, no. 1 (January 2006): 119-122. VERIFY: THIS SESSION? {{< br >}}{{< br >}} Gee, J. P. _Why Videogames Are Good For Your Soul_. New York, NY: Common Ground, 2005. ISBN: 9781863355742. {{< br >}}{{< br >}}  |
+| Lab11 | Lab | &nbsp; |
+| L22-L23 | Student Presentations | &nbsp; |
+| Lab12 | Lab | &nbsp; |
+| L24 | Student Presentations (cont.) |
